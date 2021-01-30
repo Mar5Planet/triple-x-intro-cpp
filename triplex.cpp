@@ -5,8 +5,8 @@
 
 void printIntroduction(int Difficulty)
 {
-    std::cout << "You are a secret agent breaking into a level " << Difficulty;
-    std::cout << " secure server room...\nEnter the correct Code to continue..." << "\n";
+    std::cout << "You are a super duper robber breaking into a level " << Difficulty;
+    std::cout << " secure vault trying to obtain the skull diamond..\nEnter the correct Code to continue..." << "\n";
     //expression statements
 }
 
